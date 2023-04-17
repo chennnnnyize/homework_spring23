@@ -40,8 +40,7 @@ python cs285/scripts/run_hw1.py \
 	--video_log_freq -1
 ```
 
-Make sure to also try another environment.
-See the homework PDF for more details on what else you need to run.
+
 To generate videos of the policy, remove the `--video_log_freq -1` flag.
 
 ### Section 2 (DAgger)
@@ -56,7 +55,6 @@ python cs285/scripts/run_hw1.py \
 	--video_log_freq -1
 ```
 
-Make sure to also try another environment.
 See the homework PDF for more details on what else you need to run.
 
 ## Visualization the saved tensorboard event file:
